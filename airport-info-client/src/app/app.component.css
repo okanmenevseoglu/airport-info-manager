@@ -1,0 +1,34 @@
+.main {
+  margin-top: 20px;
+}
+
+#welcomeTitle {
+  font-variant: small-caps;
+  font-weight: bold;
+  font-family: Verdana, fantasy;
+  font-stretch: ultra-expanded;
+  color: white;
+  background-color: #4c68d7 !important;
+  width: 100%;
+  text-decoration: none !important;
+}
+
+#welcomeTitleLink {
+  text-decoration: none;
+}
+
+.pageLink {
+  color: white;
+}
+
+#gitHubProfileLink:hover {
+  color: black;
+}
+
+#bottomNavbar {
+  background-color: #4c68d7;
+  font-variant: small-caps;
+  font-weight: bold;
+  font-family: Verdana, fantasy;
+  font-stretch: ultra-expanded;
+}
